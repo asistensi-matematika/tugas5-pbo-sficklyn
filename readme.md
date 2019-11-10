@@ -1,8 +1,8 @@
 # TUGAS 5 ASISTENSI PBO - Jumat, 1 November 2019
 
-NAMA: `isi nama disini`
+NAMA: Muh Syafiq Hidayatullah
 
-NRP: `isi nrp disini`
+NRP: 06111840000096
 
 ## Deskripsi Tugas
 Buatlah UML diagram sesuai dengan class, object, method dan property yang kamu buat, sebagai referensi untuk memulai:
